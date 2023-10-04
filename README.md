@@ -1,5 +1,5 @@
 # Physicist
-*Focused on machine learning
+* Focused on machine learning
 ### Education
 * Buap
 
